@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummehani-ds" alt="ummehani-ds" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI.**
+- 🌱 I’m currently learning **Reinforcement Learning.**
 
 - 🤝 I’m looking for help with **causal inference with machine learning.**
 
