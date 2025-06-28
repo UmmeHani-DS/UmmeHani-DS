@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning.**
 
-- 🤝 I’m looking for help with **causal inference with machine learning.**
+- 🤝 I’m looking for help with **causal inference with LLMs.**
 
 - 📫 How to reach me **umme.dev@gmail.com**
 
